@@ -6,7 +6,10 @@ This github organization contains repositories with source code and configuratio
 ## Quick Links
 
 - :computer: [dandiarchive.org](https://dandiarchive.org/)
-- :computer: [DANDI JupyterHub](https://hub.dandiarchive.org/)
+- :book: :computer: [DANDI notebooks](https://notebooks.dandiarchive.org/)
 - :book: [DANDI Docs](https://docs.dandiarchive.org)
 - :tv: [DANDI Youtube channel](https://www.youtube.com/@dandiarchive)
 - :raising_hand: [Support forum](https://github.com/dandi/helpdesk/)
+
+## Retired
+- :computer: [DANDI JupyterHub](https://hub.dandiarchive.org/)
